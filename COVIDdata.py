@@ -87,6 +87,3 @@ for entry in covid:
         ( date_id, county_id, state_id, fips_id, cases, deaths) )
 
     conn.commit()
-
-###adding print hellow world to test ability to commit code from Atom
-#print('Hello World!')
